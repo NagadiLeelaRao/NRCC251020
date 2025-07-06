@@ -1,4 +1,4 @@
-# Automatic CLOUD and SHADOW mask generation from Resourcesat-2/2A Liss4 Satellite Images
+# NRCC251020: Automatic CLOUD and SHADOW mask generation from Resourcesat-2/2A Liss4 Satellite Images
 
 Welcome to the repository for deep learning-based cloud and shadow segmentation on Resourcesat 2/2A LISS 4 satellite images. This project provides a complete pipeline for training, evaluation, and inference using a U-Net model, along with all supporting data, code, and documentation. The repository has been created as part of our submission for the **NRSC Offline Coding Challenge**.
 
